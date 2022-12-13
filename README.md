@@ -3,7 +3,7 @@
  <i> Os senhores Aluado, Rabicho, Almofadinhas e Pontas têm o orgulho de apresentar  <br>
 " O Portfólio de Geovanna "</i>
   <p>
-    <strong color=gray>  🧙‍♀️ Estudante de Sistemas de Informação 🧙‍♀️ </strong>
+    <strong>  🧙‍♀️ Estudante de Sistemas de Informação 🧙‍♀️ </strong>
   </p>
 </div>
 
@@ -16,3 +16,5 @@
  <a href = "mailto:geovannalessa2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=green" target="_blank"></a>
   <a href="https://www.linkedin.com/in/geovanna-lessa-19b1b31b0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+ ![Snake animation](https://github.com/Geovannalessa/Geovannalessa/blob/output/github-contribution-grid-snake.svg)
