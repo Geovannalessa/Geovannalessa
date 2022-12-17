@@ -7,14 +7,12 @@
 
  
 
- <h1 align="center">𝙾𝚕á, 𝚜𝚘𝚞 𝙶𝚎𝚘𝚟𝚊𝚗𝚗𝚊 𝙻𝚎ss𝚊</h1>
+ <h1 align="center">𝙾𝚕á, 𝚜𝚘𝚞 𝙶𝚎𝚘𝚟𝚊𝚗𝚗𝚊 𝙻𝚎𝚜𝚜𝚊</h1>
  
  
- 
-~~~javascript 
-                              | 🖥️DESENVOLVEDORA FULL-STACK  |  | 🎓ESTUDANTE DE SISTEMAS DE INFORMAÇÃO |
-~~~
-
+<h4 align="center">
+🖥️ Desenvolvedora FULL-STACK   <br> 🎓 Estudante de SISTEMAS DE INFORMAÇÃO 
+</h4>
 
 <div align="center">
   <a href="https://github.com/Geovannalessa">
