@@ -10,9 +10,9 @@
  <h1 align="center">𝙾𝚕á, 𝚜𝚘𝚞 𝙶𝚎𝚘𝚟𝚊𝚗𝚗𝚊 𝙻𝚎𝚜𝚜𝚊</h1>
  
  
-<h4 align="center">
+<h3 align="center">
 🖥️ Desenvolvedora FULL-STACK   <br> 🎓 Estudante de SISTEMAS DE INFORMAÇÃO 
-</h4>
+</h3>
 
 <div align="center">
   <a href="https://github.com/Geovannalessa">
