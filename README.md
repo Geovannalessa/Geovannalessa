@@ -11,7 +11,7 @@
  
  
 <h3 align="center">
-🖥️ Desenvolvedora FULL-STACK   <br> 🎓 Estudante de SISTEMAS DE INFORMAÇÃO 
+🖥️ Desenvolvedora full-stack   <br> 🎓 Estudante de Sistemas de Informação 
 </h3>
 
 <div align="center">
