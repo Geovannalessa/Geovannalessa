@@ -11,7 +11,7 @@
  
  
 <h3 align="center">
-🖥️ Desenvolvedora full-stack   <br> 🎓 Estudante de Sistemas de Informação 
+ Desenvolvedora Full-Stack   <br>  Estudante de Sistemas de Informação 
 </h3>
 
 <div align="center">
@@ -19,11 +19,34 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Geovannalessa&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geovannalessa&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
 </div>
-<div align="center">
+
+
+ 
+ <div align="center">
+
+          
+ <img align="center" height="30px" width="40px" margin-left="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+          
+ <img align="center" height="30px"  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+ 
+ <img align="center" height="30px"  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+          
+  <img align="center" height="30px"  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
+          
+ <img align="center" height="30px"  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+
+ <img align="center" height="30px"  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  
+ <img align="center" height="30px"  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+ 
+ <img align="center" height="30px" width="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+
+ </div><br>
+ 
+ <div align="center">
  <a href = "mailto:geovannalessa2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/geovanna-lessa-19b1b31b0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=black" target="_blank"></a> 
 </div>
-
  
 
  
