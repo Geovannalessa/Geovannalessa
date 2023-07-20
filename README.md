@@ -24,7 +24,8 @@
  
  <div align="center">
 
-          
+ <img align="center" height="30px"  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+  
  <img align="center" height="30px" width="40px" margin-left="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
           
  <img align="center" height="30px"  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
