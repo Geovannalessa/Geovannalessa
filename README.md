@@ -11,9 +11,9 @@
  
  
 <h3 align="center">
- Desenvolvedora Full-Stack   <br>  Estudante de Sistemas de Informação 
+ Desenvolvedora Full-Stack   <br>  Sistemas de Informação (4/8)
 </h3>
-
+<h4 align="center">- 🌱 Atualmente estou aprendendo C#, Unity, Typescript, Linux</h4>
 <div align="center">
   <a href="https://github.com/Geovannalessa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Geovannalessa&theme=midnight-purple&include_all_commits=true&count_private=true"/>
