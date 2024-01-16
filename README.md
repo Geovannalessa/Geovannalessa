@@ -1,5 +1,3 @@
-<img width="100%" src="https://camo.githubusercontent.com/6038c8f1fd8f60de75477470e5a87210e9256202e01dfba9986446304a0f0254/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d36302673656374696f6e3d666f6f746572" >
-
 <h6 align="center">
  <i> Os senhores Aluado, Rabicho, Almofadinhas e Pontas têm o orgulho de apresentar  <br>
 🧙‍♀️" O Portfólio de Geovanna"🧙‍♀️</i>
@@ -14,6 +12,11 @@
  Desenvolvedora Full-Stack   <br>  Sistemas de Informação (5/8)
 </h3>
 <h4 align="center">- 🌱 Atualmente estou aprendendo C#, Typescript e aprimorando em JavaScript</h4>
+<div align="center">
+ Praticando lógica com  <a href='https://www.codewars.com/users/geonautaL'>
+  <img align="center" height="30px"  src='https://github.com/Geovannalessa/Geovannalessa/assets/91286117/6a35aa0f-e2bc-4d3c-be4d-3a9e78b1640c'>CodeWars
+ </a>
+</div>
 <div align="center">
   <a href="https://github.com/Geovannalessa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Geovannalessa&theme=midnight-purple&include_all_commits=true&count_private=true"/>
