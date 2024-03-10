@@ -13,9 +13,10 @@
 </h3>
 <h4 align="center">- 🌱 Atualmente estou aprendendo C#, Typescript e aprimorando em JavaScript</h4>
 <div align="center">
- Praticando lógica com  <a href='https://www.codewars.com/users/geonautaL'>
-  <img align="center" height="30px"  src='https://github.com/Geovannalessa/Geovannalessa/assets/91286117/6a35aa0f-e2bc-4d3c-be4d-3a9e78b1640c'>CodeWars
- </a>
+ Praticando lógica com  
+ <a href='https://www.codewars.com/users/geonautaL'>
+  <img align="center" height="30px"  src='https://github.com/Geovannalessa/Geovannalessa/assets/91286117/6a35aa0f-e2bc-4d3c-be4d-3a9e78b1640c'>CodeWars</a> <br>
+   <img src='https://www.codewars.com/users/geonautaL/badges/small' alt='Imagem dos meus pontos no codewares'>
 </div>
 <div align="center">
   <a href="https://github.com/Geovannalessa">
