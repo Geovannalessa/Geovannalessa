@@ -9,7 +9,7 @@
  
  
 <h3 align="center">
- Desenvolvedora Full-Stack   <br>  Sistemas de Informação (5/8)
+ Desenvolvedora Full-Stack   <br>  Sistemas de Informação (7/8)
 </h3>
 <h4 align="center">- 🌱 Atualmente estou aprendendo C#, Typescript e aprimorando em JavaScript</h4>
 <div align="center">
